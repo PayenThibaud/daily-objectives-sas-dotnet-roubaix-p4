@@ -41,8 +41,8 @@
   - [x] Liens
 - [x] Faire le parcours "how-to-markdown" (Nodeschool.io)
 
-- [ ] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
-- [ ] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
+- [x] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
+- [x] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
 
 ### Optionnel pour apprendre le terminal Linux / Mac :
 
