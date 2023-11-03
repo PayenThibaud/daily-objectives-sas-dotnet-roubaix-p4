@@ -22,7 +22,7 @@
         - [x] git push
         - [x] git clone
         - [x] git remote
-- [ ] Faire le parcours Git-it (Nodeschool.io)
+- [x] Faire le parcours Git-it (Nodeschool.io)
 - [x] Comprendre les termes "local", "origin" et "upstream"
 - [x] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
 - [x] Faire ses premiers pushs des daily-objectives sur son compte Github
@@ -49,7 +49,7 @@
   - [x] Créer un tunnel SSH entre local et Github
 - [x] Découvrir l'interface de Github :
 - [ ] Pull Requests
-- [ ] Branches
+- [x] Branches
 - [ ] Issues
 - [x] Settings projet
 - [x] Settings profile

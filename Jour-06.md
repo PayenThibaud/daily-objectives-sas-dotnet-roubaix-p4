@@ -25,7 +25,7 @@
   - [x] Comprendre le principe des options dans les commandes
 - [x] Choix / installation d'un terminal (Linux, Mac ou Windows)
 - [x] Pimper son terminal (Zsh, Ohmyzsh, Powerlevel10k)
-- [ ] Créer un cheat sheet sur les principales commandes du terminal
+- [x] Créer un cheat sheet sur les principales commandes du terminal
 
 ### Markdown
 
