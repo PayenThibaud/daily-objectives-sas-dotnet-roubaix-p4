@@ -48,7 +48,7 @@
 - [x] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
   - [x] Créer un tunnel SSH entre local et Github
 - [x] Découvrir l'interface de Github :
-- [ ] Pull Requests
+- [x] Pull Requests
 - [x] Branches
 - [ ] Issues
 - [x] Settings projet
