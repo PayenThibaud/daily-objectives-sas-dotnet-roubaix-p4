@@ -18,15 +18,15 @@
   - [x] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
   - [x] https://www.conventionalcommits.org/fr/v1.0.0/
   - [x] Renommer son dernier commit en respectant cette convention
-- [ ] Comprendre l'utilité et le fonctionnement de `git stash`
-- [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
+- [x] Comprendre l'utilité et le fonctionnement de `git stash`
+- [x] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
 
 ### Gitflow
 
-- [ ] Découvrir Gitflow
-  - [ ] Créer un cheat sheet sur Gitflow (en groupe)
+- [x] Découvrir Gitflow
+  - [x] Créer un cheat sheet sur Gitflow (en groupe)
 
 ### IA
 
-- [ ] Découvrir le prompt engineering sur ChatGPT (https://learnprompting.org/fr/)
-- [ ] Partager ses trucs et astuces sur l'utilisation des IAs
+- [x] Découvrir le prompt engineering sur ChatGPT (https://learnprompting.org/fr/)
+- [x] Partager ses trucs et astuces sur l'utilisation des IAs
