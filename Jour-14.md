@@ -4,18 +4,18 @@
 
 ### Javascript :
 
-- [ ] Comprendre les conditions en JavaScript (https://fr.javascript.info/ifelse)
-  - [ ] if else
+- [x] Comprendre les conditions en JavaScript (https://fr.javascript.info/ifelse)
+  - [x] if else
   - [ ] ternaire
-- [ ] Comprendre le fonctionnement des opérateurs logiques (https://fr.javascript.info/logical-operators)
-  - [ ] `||` (OR)
-  - [ ] `&&` (AND)
-  - [ ] `!` (NOT)
-  - [ ] `??` (Coalescence des nulles)[https://fr.javascript.info/nullish-coalescing-operator]
-- [ ] Comprendre l'intérêt et le fonctionnement des boucles en JavaScript (https://fr.javascript.info/while-for)
+- [x] Comprendre le fonctionnement des opérateurs logiques (https://fr.javascript.info/logical-operators)
+  - [x] `||` (OR)
+  - [x] `&&` (AND)
+  - [x] `!` (NOT)
+  - [x] `??` (Coalescence des nulles)[https://fr.javascript.info/nullish-coalescing-operator]
+- [x] Comprendre l'intérêt et le fonctionnement des boucles en JavaScript (https://fr.javascript.info/while-for)
   - [ ] while
   - [ ] do while
-  - [ ] for
+  - [x] for
   - [ ] break / continue
 - [ ] Comprendre le "switch" en JavaScript (https://fr.javascript.info/switch)
 - [ ] Comprendre le fonctionnement des fonctions en JavaScript
