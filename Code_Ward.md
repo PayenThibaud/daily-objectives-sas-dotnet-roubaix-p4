@@ -3,7 +3,7 @@
 
 ### Code war JavaScript
 
-- [ ] Lundi 50 KATA
+- [x] Lundi 50 KATA
 - [ ] Mardi 100 KATA
 - [ ] Mercredi 150 KATA
     - [ ] kyu de niveau 7
