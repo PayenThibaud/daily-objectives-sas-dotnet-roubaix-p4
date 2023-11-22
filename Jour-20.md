@@ -10,10 +10,10 @@
   - [x] Comprendre ce qu'est une table
   - [x] Identifier ce qu'est une colonne dans une table
   - [x] Définir ce qu'est une ligne ou un enregistrement dans une table
-  - [ ] Explorer le concept de clé primaire
-  - [ ] Comprendre ce qu'est une clé étrangère
+  - [x] Explorer le concept de clé primaire
+  - [x] Comprendre ce qu'est une clé étrangère
   - [x] Découvrir le rôle et l'utilisation des requêtes SQL
-  - [ ] Apprendre ce qu'est un index dans le contexte d'une table
-  - [ ] Examiner les différents types de jointures en SQL
+  - [x] Apprendre ce qu'est un index dans le contexte d'une table
+  - [x] Examiner les différents types de jointures en SQL
 - [x] Commencer le parcours [SQLBolt](https://sqlbolt.com)
 
