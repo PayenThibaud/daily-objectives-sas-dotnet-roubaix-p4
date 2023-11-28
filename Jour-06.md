@@ -20,7 +20,7 @@
   - [x] Savoir ce qu'est un shell, quelle différence entre BASH et ZSH
   - [x] Comprendre comment fonctionne un shell
   - [x] Comprendre le fonctionnement des alias
-    - [ ] Setup ses alias
+    - [x] Setup ses alias
   - [x] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
   - [x] Comprendre le principe des options dans les commandes
 - [x] Choix / installation d'un terminal (Linux, Mac ou Windows)
