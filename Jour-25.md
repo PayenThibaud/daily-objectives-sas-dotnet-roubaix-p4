@@ -4,12 +4,12 @@
 
 ### Programmation Orientée Objets :
 
-- [ ] Découvrir les concepts fondamentaux de la `POO` :
-  - [ ] Objets
-  - [ ] Attributs
-  - [ ] Méthodes
-  - [ ] Classes
-  - [ ] Constructeurs
+- [x] Découvrir les concepts fondamentaux de la `POO` :
+  - [x] Objets
+  - [x] Attributs / propriété
+  - [x] Méthodes
+  - [x] Classes
+  - [x] Constructeurs
   - [ ] Héritage
   - [ ] Encapsulation
   - [ ] Abstraction
